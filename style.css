@@ -1,0 +1,21 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: #505050;
+    width: 100%;
+    height: 100%;
+}
+
+@font-face {
+    font-family: "flappy-bird-number";
+    src: url("fonts/flappy-bird-number.otf");
+}
+@font-face {
+    font-family: "flappy-bird-word";
+    src: url("fonts/flappy-bird-word.otf");
+}
+
+#screen{
+    background-color: skyblue;
+}
