@@ -9,7 +9,7 @@ html, body{
 
 @font-face {
     font-family: "flappy-bird-number";
-    src: url("fonts/flappy-bird-number.otf");
+    src: url("fonts/flappy-bird-numbers.otf");
 }
 @font-face {
     font-family: "flappy-bird-word";
@@ -17,5 +17,6 @@ html, body{
 }
 
 #screen{
-    background-color: skyblue;
+    background-image: url('images/background-day.png');
+    background-size: cover;
 }
